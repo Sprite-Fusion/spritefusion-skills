@@ -5,14 +5,14 @@ Game-ready pixel art assets: sprites at exact sizes, edits, style matching, 8 di
 Agent skills and a Claude Code plugin for [Sprite Fusion](https://www.spritefusion.com/pixel-art-generator).
 
 <p>
-<a href="https://www.spritefusion.com/docs/pixel-art-generator/quick-start"><img src=".github/assets/sprites.png" width="360" height="220" alt="Sprites at exact sizes"></a>
+<a href="https://www.spritefusion.com/docs/pixel-art-generator/quick-start"><img src=".github/assets/sprites.png" width="724" height="445" alt="Sprites at exact sizes"></a>
 <a href="https://www.spritefusion.com/docs/pixel-art-generator/edit-your-pixel-art"><img src=".github/assets/edits.png" width="360" height="220" alt="Edits"></a>
 <a href="https://www.spritefusion.com/docs/pixel-art-generator/generate-pixel-art-with-style-consistency"><img src=".github/assets/style.png" width="360" height="220" alt="Style matching"></a>
 <a href="https://www.spritefusion.com/docs/pixel-art-generator/generate-8-directions-for-your-pixel-art"><img src=".github/assets/directions.png" width="360" height="220" alt="8 directions"></a>
 <a href="https://www.spritefusion.com/docs/pixel-art-generator/animation-tips"><img src=".github/assets/animations.webp" width="360" height="220" alt="Animations"></a>
 <a href="https://www.spritefusion.com/docs/pixel-art-generator/color-palettes"><img src=".github/assets/palettes.png" width="360" height="220" alt="Palettes"></a>
 <a href="https://www.spritefusion.com/docs/pixel-art-generator/generate-normal-maps"><img src=".github/assets/normal-maps.webp" width="360" height="220" alt="Normal maps"></a>
-<a href="https://www.spritefusion.com/pixel-art-vfx"><img src=".github/assets/vfx.webp" width="360" height="220" alt="Pixel art VFX"></a>
+<a href="https://www.spritefusion.com/pixel-art-vfx"><img src=".github/assets/vfx.webp" width="724" height="380" alt="Pixel art VFX"></a>
 </p>
 
 ## Get started
