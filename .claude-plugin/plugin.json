@@ -1,0 +1,12 @@
+{
+  "name": "spritefusion",
+  "displayName": "Sprite Fusion",
+  "version": "1.0.0",
+  "description": "Game-ready pixel art from your agent: sprites at exact sizes, edits, style matching, 8 directions, animations, palettes, normal maps, and pixel art VFX.",
+  "author": { "name": "Sprite Fusion", "url": "https://www.spritefusion.com" },
+  "homepage": "https://www.spritefusion.com/docs/ai-agents",
+  "privacyPolicyUrl": "https://www.spritefusion.com/privacy",
+  "repository": "https://github.com/Sprite-Fusion/spritefusion-skills",
+  "license": "MIT",
+  "keywords": ["pixel-art", "sprites", "animation", "game-dev", "godot", "unity", "mcp"]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "spritefusion",
+  "owner": { "name": "Sprite Fusion", "url": "https://www.spritefusion.com" },
+  "description": "Sprite Fusion for Claude Code: the MCP server and skills for game-ready pixel art.",
+  "plugins": [
+    {
+      "name": "spritefusion",
+      "source": "./",
+      "description": "Game-ready pixel art from your agent: sprites at exact sizes, edits, style matching, 8 directions, animations, palettes, normal maps, and pixel art VFX.",
+      "category": "design",
+      "homepage": "https://www.spritefusion.com/docs/ai-agents"
+    }
+  ]
+}
